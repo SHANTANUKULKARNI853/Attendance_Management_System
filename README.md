@@ -11,7 +11,7 @@ Effortless access to attendance logs, performance insights, and communication to
 <br>
 🔗 [Live Website](https://attendance-management-system-8jff4ccev.vercel.app/)
 <br><br>
-👤 Developed by [Shantanu Kulkarni](https://www.linkedin.com/in/shantanu-kulkarni-8a6933256/)
+👤 Developed by [Shantanu Kulkarni]
 
 # 🚀 About
 
